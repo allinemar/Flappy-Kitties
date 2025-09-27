@@ -1,6 +1,6 @@
-# Flappy Kitties 🧚🐱✨  
+# Flappy-Kitties 🧚🐱✨  
 
-**Flappy Kitties** is a cute game built with **Java Swing**, where you choose your own fairy kitty and guide them through the dreamy night sky. Float among the stars, dodge sleeping pipes, and see how far your magical kitty can fly!  
+**Flappy-Kitties** is a cute game built with **Java Swing**, where you choose your own fairy kitty and guide them through the dreamy night sky. Float among the stars, dodge sleeping pipes, and see how far your magical kitty can fly!  
 
 ## ✨ Features  
 - 🌸 **Choose your fairy kitty** — pick your favorite magical companion before starting the adventure.  
@@ -19,3 +19,6 @@
 - **CardLayout** for smooth page transitions (home, choose kitty, game, and game over screens)  
 - **Custom sprites and icons** for a unique, cute style  
 
+## 🎥 Demo  
+
+Download and watch the gameplay video [here](preview.webm). Or click on the preview file above.
