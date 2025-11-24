@@ -21,4 +21,4 @@
 
 ## 🎥 Demo  
 
-Download and watch the gameplay video [here](preview.webm). Or click on the preview file above.
+![here](gif.gif)
